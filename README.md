@@ -15,7 +15,9 @@
 
 
 [This is a link](http://google.com/) to google.com
-[!This is an image](s-l300.jpg)
 
+![This is an image](s-l300.jpg)
+
+![not An image of a cookie](http://lorempixel.com/400/200/)
 
 **double asterisks create bold text**
