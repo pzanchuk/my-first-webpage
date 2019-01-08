@@ -15,7 +15,7 @@
 
 
 [This is a link](http://google.com/) to google.com
-[!This is an image](http://lorempixel.com/400/200/)
+[!This is an image](s-l300.jpg)
 
 
 **double asterisks create bold text**
